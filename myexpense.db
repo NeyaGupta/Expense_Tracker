@@ -1,0 +1,5 @@
+SQLite format Ktableexpense_recordexpense_record CREATE TABLE "expense_record" (
+	"item_name"	text,
+	"item_price"	float,
+	"purchase_date"	date
+)
